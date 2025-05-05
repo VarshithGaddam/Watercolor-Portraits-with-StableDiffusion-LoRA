@@ -12,7 +12,7 @@ Here are the three generated watercolor-style images of `sks`:
 ### Scene 3: sks Playing Cricket on a Green Field
 ![sks playing cricket on a field](output/generated_images/scene_3.png)
 
-**Note**: If the images don’t display, ensure the paths are correct after uploading the repository to GitHub.
+
 
 ## Overview
 This project fine-tunes a Stable Diffusion model using LoRA (Low-Rank Adaptation) to generate watercolor-style portraits of a person (`sks`). It includes two main scripts:
@@ -98,4 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: Replace `yourusername` in the `git clone` URL with your actual GitHub username when uploading the repository.
